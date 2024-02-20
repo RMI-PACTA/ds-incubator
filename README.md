@@ -1,4 +1,4 @@
-# ds-incubator
+# DEPRECATED - ds-incubator
 
 The goal of the ds-incubator (data science incubator) is to share best practices
 in data-science at [2DII](https://2degrees-investing.org/) and beyond.
